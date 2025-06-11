@@ -1,0 +1,14 @@
+E:\с##\BiKo\bin\Debug\net8.0\BiKo.exe
+E:\с##\BiKo\bin\Debug\net8.0\BiKo.deps.json
+E:\с##\BiKo\bin\Debug\net8.0\BiKo.runtimeconfig.json
+E:\с##\BiKo\bin\Debug\net8.0\BiKo.dll
+E:\с##\BiKo\bin\Debug\net8.0\BiKo.pdb
+E:\с##\BiKo\obj\Debug\net8.0\BiKo.GeneratedMSBuildEditorConfig.editorconfig
+E:\с##\BiKo\obj\Debug\net8.0\BiKo.AssemblyInfoInputs.cache
+E:\с##\BiKo\obj\Debug\net8.0\BiKo.AssemblyInfo.cs
+E:\с##\BiKo\obj\Debug\net8.0\BiKo.csproj.CoreCompileInputs.cache
+E:\с##\BiKo\obj\Debug\net8.0\BiKo.dll
+E:\с##\BiKo\obj\Debug\net8.0\refint\BiKo.dll
+E:\с##\BiKo\obj\Debug\net8.0\BiKo.pdb
+E:\с##\BiKo\obj\Debug\net8.0\BiKo.genruntimeconfig.cache
+E:\с##\BiKo\obj\Debug\net8.0\ref\BiKo.dll
