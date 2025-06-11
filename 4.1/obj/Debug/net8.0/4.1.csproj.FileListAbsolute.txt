@@ -1,0 +1,14 @@
+E:\с##\4.1\bin\Debug\net8.0\4.1.exe
+E:\с##\4.1\bin\Debug\net8.0\4.1.deps.json
+E:\с##\4.1\bin\Debug\net8.0\4.1.runtimeconfig.json
+E:\с##\4.1\bin\Debug\net8.0\4.1.dll
+E:\с##\4.1\bin\Debug\net8.0\4.1.pdb
+E:\с##\4.1\obj\Debug\net8.0\4.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\с##\4.1\obj\Debug\net8.0\4.1.AssemblyInfoInputs.cache
+E:\с##\4.1\obj\Debug\net8.0\4.1.AssemblyInfo.cs
+E:\с##\4.1\obj\Debug\net8.0\4.1.csproj.CoreCompileInputs.cache
+E:\с##\4.1\obj\Debug\net8.0\4.1.dll
+E:\с##\4.1\obj\Debug\net8.0\refint\4.1.dll
+E:\с##\4.1\obj\Debug\net8.0\4.1.pdb
+E:\с##\4.1\obj\Debug\net8.0\4.1.genruntimeconfig.cache
+E:\с##\4.1\obj\Debug\net8.0\ref\4.1.dll
